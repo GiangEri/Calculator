@@ -1,0 +1,7 @@
+D:\Calculator\UnitTestProject1\bin\Debug\UnitTestProject1.dll
+D:\Calculator\UnitTestProject1\bin\Debug\UnitTestProject1.pdb
+D:\Calculator\UnitTestProject1\bin\Debug\Calculator.exe
+D:\Calculator\UnitTestProject1\bin\Debug\Calculator.pdb
+D:\Calculator\UnitTestProject1\obj\Debug\UnitTestProject1.csprojResolveAssemblyReference.cache
+D:\Calculator\UnitTestProject1\obj\Debug\UnitTestProject1.dll
+D:\Calculator\UnitTestProject1\obj\Debug\UnitTestProject1.pdb
